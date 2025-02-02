@@ -1,0 +1,39 @@
+{
+  "teams": [
+    { 
+      "id": "india", 
+      "name": "India", 
+      "flag": "https://flagcdn.com/w80/in.png"
+    },
+    { 
+      "id": "england", 
+      "name": "England", 
+      "flag": "https://flagcdn.com/w80/gb-eng.png"
+    },
+    { 
+      "id": "australia", 
+      "name": "Australia", 
+      "flag": "https://flagcdn.com/w80/au.png"
+    },
+    { 
+      "id": "srilanka", 
+      "name": "Sri Lanka", 
+      "flag": "https://flagcdn.com/w80/lk.png"
+    },
+    { 
+      "id": "newzealand", 
+      "name": "New Zealand", 
+      "flag": "https://flagcdn.com/w80/nz.png"
+    },
+    { 
+      "id": "southafrica", 
+      "name": "South Africa", 
+      "flag": "https://flagcdn.com/w80/za.png"
+    },
+    { 
+      "id": "pakistan", 
+      "name": "Pakistan", 
+      "flag": "https://flagcdn.com/w80/pk.png"
+    }
+  ]
+}
