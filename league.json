@@ -1,0 +1,64 @@
+{
+  "leagues": [
+    { 
+      "id": "ipl", 
+      "name": "IPL", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "international", 
+      "name": "INTERNATIONAL CRICKET", 
+      "icon": "🌍",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "npl", 
+      "name": "NPL", 
+      "icon": "🏏",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "psl", 
+      "name": "PSL", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "bbl", 
+      "name": "BBL", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "t10", 
+      "name": "T10", 
+      "icon": "🏏",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "mlc", 
+      "name": "MLC", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "bpl11", 
+      "name": "BPL", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "ilt20", 
+      "name": "ILT20", 
+      "icon": "🏏",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    },
+    { 
+      "id": "sa20", 
+      "name": "SA20", 
+      "icon": "🏆",
+      "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=48&h=48&fit=crop&crop=edges"
+    }
+  ]
+}
