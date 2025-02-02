@@ -1,0 +1,99 @@
+{
+  "matches": [
+    {
+      "id": "int1",
+      "league": "INTERNATIONAL CRICKET",
+      "status": "Live Now!",
+      "icon": "🌍",
+      "streamUrl": "https://example.com/stream/int1",
+      "venue": "Melbourne Cricket Ground, Australia",
+      "time": "2025-03-15T14:00:00Z",
+      "teams": {
+        "team1": { 
+          "name": "Australia", 
+          "flag": "https://flagcdn.com/w80/au.png"
+        },
+        "team2": { 
+          "name": "Sri Lanka", 
+          "flag": "https://flagcdn.com/w80/lk.png"
+        }
+      }
+    },
+    {
+      "id": "int2",
+      "league": "INTERNATIONAL CRICKET",
+      "status": "Starting Soon",
+      "icon": "🌍",
+      "streamUrl": "https://example.com/stream/int2",
+      "venue": "Lord's Cricket Ground, England",
+      "time": "2025-03-16T10:00:00Z",
+      "teams": {
+        "team1": { 
+          "name": "England", 
+          "flag": "https://flagcdn.com/w80/gb-eng.png"
+        },
+        "team2": { 
+          "name": "India", 
+          "flag": "https://flagcdn.com/w80/in.png"
+        }
+      }
+    },
+    {
+      "id": "int3",
+      "league": "INTERNATIONAL CRICKET",
+      "status": "Tomorrow",
+      "icon": "🌍",
+      "streamUrl": "https://example.com/stream/int3",
+      "venue": "Eden Gardens, India",
+      "time": "2024-03-17T09:00:00Z",
+      "teams": {
+        "team1": { 
+          "name": "India", 
+          "flag": "https://flagcdn.com/w80/in.png"
+        },
+        "team2": { 
+          "name": "New Zealand", 
+          "flag": "https://flagcdn.com/w80/nz.png"
+        }
+      }
+    },
+    {
+      "id": "int4",
+      "league": "INTERNATIONAL CRICKET",
+      "status": "Starting Soon",
+      "icon": "🌍",
+      "streamUrl": "https://example.com/stream/int4",
+      "venue": "Galle International Stadium, Sri Lanka",
+      "time": "2024-03-16T04:00:00Z",
+      "teams": {
+        "team1": { 
+          "name": "Sri Lanka", 
+          "flag": "https://flagcdn.com/w80/lk.png"
+        },
+        "team2": { 
+          "name": "Pakistan", 
+          "flag": "https://flagcdn.com/w80/pk.png"
+        }
+      }
+    },
+    {
+      "id": "ipl1",
+      "league": "IPL",
+      "status": "Live Now!",
+      "icon": "🏆",
+      "streamUrl": "https://example.com/stream/ipl1",
+      "venue": "Wankhede Stadium, Mumbai",
+      "time": "2025-03-15T14:00:00Z",
+      "teams": {
+        "team1": { 
+          "name": "Mumbai Indians", 
+          "flag": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=64&h=64&fit=crop"
+        },
+        "team2": { 
+          "name": "Chennai Super Kings", 
+          "flag": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=64&h=64&fit=crop"
+        }
+      }
+    }
+  ]
+}
